@@ -1,4 +1,4 @@
-# This is a Text Analyzer website
+# This is a Text Analyzer website.
 
 # Getting Started with Create React App
 
